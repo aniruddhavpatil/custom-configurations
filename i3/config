@@ -181,3 +181,4 @@ bindsym $mod+l exec i3lock -i ~/Pictures/Wallpapers/wp.jpg -p default -n
 
 exec xrandr --output HDMI-1-1 --left-of eDP-1-1
 exec nm-applet
+exec feh --bg-scale ~/Pictures/Wallpapers/wp.jpg
